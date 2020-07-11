@@ -1,5 +1,3 @@
-# vue_elementui_project
-
 ## Project setup
 ```
 npm install
