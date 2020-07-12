@@ -1,0 +1,5 @@
+//elint校验语法规则
+{
+    "semi":false,
+    
+}
